@@ -1,4 +1,5 @@
-shortname: Krispi
+title: Krispi
+description: Perusahaan konsultan agile di Indonesia. Bergerak seperti (dna.crisp.se/docs/index.html)[Crisp dari Swedia].
 
 # Build settings
 markdown: kramdown
