@@ -110,6 +110,31 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: #eaeaea;
+  padding: 1.5em;
+
+  .site-title{
+    font-size: 4em;
+    font-weight: 900;
+    color: black;
+  }
+
+  h1 {
+    font-size: 4em;
+    margin-bottom: 5px;
+  }
+
+  .description {
+    font-size: 1.3em;
+    border-bottom: 1px dashed #777777;
+    border-width: 1px 0;
+    padding-bottom: 1em;
+  }
+}
+
+header nav {
+  margin-top: 20px;
+  font-size: 1.1em;
 }
 
 header ul {
@@ -210,10 +235,6 @@ footer {
     width:auto;
   }
 
-  header {
-    padding-right:320px;
-  }
-
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
@@ -235,10 +256,6 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
   }
 
   header ul, header p.view {

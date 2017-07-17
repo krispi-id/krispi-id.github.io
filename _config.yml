@@ -1,5 +1,4 @@
 title: Krispi
-description: Perusahaan konsultan agile di Indonesia. Bergerak seperti (dna.crisp.se/docs/index.html)[Crisp dari Swedia].
 
 # Build settings
 markdown: kramdown
@@ -13,3 +12,6 @@ exclude:
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customi$
 date_format: "%-d %b %Y"
+
+site:
+  lang: id-ID

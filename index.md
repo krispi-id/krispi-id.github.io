@@ -1,10 +1,11 @@
 ---
+title: Tes
 layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Link to another page](another-page). Tes
 
 There should be whitespace between paragraphs.
 
