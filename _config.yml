@@ -1,1 +1,14 @@
+shortname: Krispi
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customi$
+date_format: "%-d %b %Y"
