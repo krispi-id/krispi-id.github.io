@@ -13,5 +13,4 @@ exclude:
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customi$
 date_format: "%-d %b %Y"
 
-site:
-  lang: id-ID
+lang: id-ID

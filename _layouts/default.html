@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title }}</title>
+    <title>{{ page.title}} | {{ site.title }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
     <meta name="viewport" content="width=device-width">
@@ -13,24 +13,25 @@
   </head>
   <body>
     <div class="wrapper">
+
       <header>
         <span class="site-title">{{ site.title }}</span>
-        <div class="description">Perusahaan para konsultan <em>agile software development</em> &amp; <em>agile organization</em> di Indonesia. Kami <a href="http://dna.crisp.se/docs/index.html" target="_blank">bergerak</a> seperti <a href="https://www.crisp.se" target="_blank">Crisp di Swedia</a>.</div>
+        <div class="description">Kami perusahaan konsultan <a href="{{ '/tentang-kami#kenapa-agile' }}"><em style="white-space: nowrap;">agile software development</em> &amp; <em style="white-space: nowrap;">agile organization</em></a> di Indonesia. Kami <a href="http://dna.crisp.se/docs/index.html" target="_blank">bergerak</a> seperti <a style="white-space: nowrap;" href="https://www.crisp.se" target="_blank">Crisp di Swedia</a>.</div>
         <nav>
-          <a href="#">Tentang Kami</a> &nbsp;&middot;&nbsp; <a href="#">Para Konsultan</a> &nbsp;&middot;&nbsp; <a href="#">Penawaran Training Publik</a> &nbsp;&middot;&nbsp; <a href="#">Blog</a> 
+          <a href="{{ '/tentang-kami' }}">Kami</a>  &nbsp;&middot;&nbsp; <a href="#">Bantuan Kami</a> &nbsp;&middot;&nbsp; <a href="#">Para Konsultan</a> &nbsp;&middot;&nbsp; <a href="#">Jadwal Training Publik</a> &nbsp;&middot;&nbsp; <a href="#">Blog</a> &nbsp;&middot;&nbsp; <a href="#">Kontak</a>
         </nav>
       </header>
+
       <section>
-
       {{ content }}
-
       </section>
+      
       <footer>
         <p><small></small></p>
       </footer>
+
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
 
   {% if site.google_analytics %}
     <script>
@@ -43,5 +44,6 @@
         ga('send', 'pageview');
     </script>
   {% endif %}
+
   </body>
 </html>

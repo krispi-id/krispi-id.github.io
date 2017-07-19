@@ -1,6 +1,7 @@
 ---
-title: Tes
+title: Text Format
 layout: default
+permalink: /text-format
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
