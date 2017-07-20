@@ -21,6 +21,10 @@ Pegiat Linux ini menyediakan jasa konsultasi penuh terkait DevOps. Dia berjanji 
 
 Estu adalah DevOps Mentor Binar Academy,  Release Manager BlankOn Linux, & ex DevOps Engineer Gojek. 
 
+Metode yang Estu tawarkan : Inspirational Talk, Training, Workshop Facilitation.
+
+Topik yang Estu kuasai : DevOps Culture. Cloud Computing, Continuous Delivery, Automation.
+
 ---
 
 {% include image.html
