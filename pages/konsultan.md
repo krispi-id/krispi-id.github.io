@@ -17,13 +17,13 @@ permalink: /konsultan
 ## Estu Fardani
 {: style="text-align: center;"}
 
-Pegiat Linux ini menyediakan jasa konsultasi penuh terkait DevOps. Dia berjanji untuk membuat segala hal terkait integrasi & *deployment* kode menjadi secepat & akurat mungkin. Baginya, *high-quality software* == *effective development time*.
+Pegiat GNU/Linux ini menyediakan jasa konsultasi penuh terkait DevOps. Dia berjanji untuk membuat segala hal terkait integrasi & *deployment* kode menjadi secepat & akurat mungkin. Baginya, *high-quality software* == *effective development time*.
 
-Estu adalah DevOps Mentor Binar Academy,  Release Manager BlankOn Linux, & ex DevOps Engineer Gojek. 
+Estu adalah Master dan Mentor DevOps di Binar Academy, DevOps Engineer di Peentar.id, Release Manager BlankOn Linux, & ex DevOps Engineer Gojek.
 
 Metode yang Estu tawarkan : Inspirational Talk, Training, Workshop Facilitation.
 
-Topik yang Estu kuasai : DevOps Culture. Cloud Computing, Continuous Delivery, Automation.
+Topik yang Estu kuasai : DevOps Culture, Cloud Computing, Continuous Delivery, Automation.
 
 ---
 
@@ -36,4 +36,4 @@ Topik yang Estu kuasai : DevOps Culture. Cloud Computing, Continuous Delivery, A
 ## Rizky Syaiful
 {: style="text-align: center;"}
 
-Konsultan Scrum sejak tahun 2013, Rizky telah memberikan training Scrum 
+Sebagai konsultan Scrum sejak tahun 2013, Rizky telah memberikan training ke ratusan orang. Di sela-sela waktu, Rizky menulis buku 
