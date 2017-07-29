@@ -23,7 +23,9 @@ Estu adalah Master dan Mentor DevOps di Binar Academy, DevOps Engineer di Peenta
 
 Metode yang Estu tawarkan : Inspirational Talk, Training, Workshop Facilitation.
 
-Topik yang Estu kuasai : DevOps Culture, Cloud Computing, Continuous Delivery, Automation.
+Topik yang Estu kuasai : DevOps Culture, Cloud Computing, Continuous Integration / Continuous Delivery, Automation.
+
+CV Estu
 
 ---
 
@@ -36,4 +38,12 @@ Topik yang Estu kuasai : DevOps Culture, Cloud Computing, Continuous Delivery, A
 ## Rizky Syaiful
 {: style="text-align: center;"}
 
-Sebagai konsultan Scrum sejak tahun 2013, Rizky telah memberikan training ke ratusan orang. Di sela-sela waktu, Rizky menulis buku 
+Sebagai konsultan Scrum sejak tahun 2013, Rizky telah memberikan training ke ratusan orang. Saat tidak memberikan training, Rizky menulis buku, merekam video *online course* di [learn.agilecampus.org](https://learn.agilecampus.org), mengadakan AgileCampus Lecture on The Road.
+
+Rizky Syaiful adalah CEO sekaligus Lecturer dari AgileCampus&mdash;juga Product Owner dari AgileCampus Online Course.
+
+Metode yang Rizky tawarkan : Inspirational Talk, Training.
+
+Topik yang Rizky kuasai : Scrum, Kanban, Design Thinking, Design Sprint, Lean Startup.
+
+[CV Rizky Syaiful](https://docs.google.com/document/d/10mfKqEgBOnZ1D4Vvs2jaTdzU6I2Hh9YSH68-EBHJ4F4/edit?usp=sharing)
