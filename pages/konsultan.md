@@ -40,7 +40,7 @@ CV Estu
 
 Sebagai konsultan Scrum sejak tahun 2013, Rizky telah memberikan training ke ratusan orang. Saat tidak memberikan training, Rizky menulis buku, merekam video *online course* di [learn.agilecampus.org](https://learn.agilecampus.org), mengadakan AgileCampus Lecture on The Road.
 
-Rizky Syaiful adalah CEO sekaligus Lecturer dari AgileCampus&mdash;juga Product Owner dari AgileCampus Online Course.
+Rizky Syaiful adalah CEO sekaligus Lecturer dari AgileCampus&mdash;juga Product Owner dari AgileCampus Online Course. Jadi, bukan sekedar konsultan, beliau juga seorang praktisi.
 
 Metode yang Rizky tawarkan : Inspirational Talk, Training.
 

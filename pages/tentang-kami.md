@@ -50,11 +50,11 @@ Tatanan lama bisnis transportasi, komunikasi, perhotelan, keuangan, sedang atau 
 
 Tentu inovasi adalah topik yang luas. Karenanya, mari kita bagi jadi tiga domain: 
 
-#### 1. Riset Bisnis
+#### 1. Bisnis
 
 Bagian menentukan langkah inovasi apa yang akan diambil.
 
-[Lean Startup](http://theleanstartup.com/), [Google Venture](http://www.gv.com/sprint/), [Design Thinking](https://www.ideou.com/pages/design-thinking), [Agile Marketing](http://agilemarketingmanifesto.org/).
+[Lean Startup](http://theleanstartup.com/), [Design Sprint](http://www.gv.com/sprint/), [Design Thinking](https://www.ideou.com/pages/design-thinking), [Agile Marketing](http://agilemarketingmanifesto.org/).
 
 #### 2. Teknis
 
@@ -66,7 +66,7 @@ Bagian membuat barang inovatif yang berkualitas & mudah diestimasi lama pengerja
 
 Bagian membuat organisasi yang inovatif, menarik bagi *talent-talent* yang inovatif, &amp; menjaga mereka tetap di organisasi.
 
-[Responsive Org](http://www.responsive.org/manifesto), [Scrum](http://www.scrumguides.org/), [Holacracy](http://www.holacracy.org/).
+[Alliance Framework](http://www.theallianceframework.com/), [Responsive Org](http://www.responsive.org/manifesto), [Scrum](http://www.scrumguides.org/), [Holacracy](http://www.holacracy.org/).
 
 ## Lalu Krispi Itu?
 

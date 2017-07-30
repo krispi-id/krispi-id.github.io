@@ -31,6 +31,29 @@ permalink: /
 
 <h2>Jadwal Acara Publik</h2> 
 
+{% if site.categories.sgc != null %}
+
+<h3 style="text-align: center; margin-bottom:15px;">Training &amp; Sertifikasi Scrum Guide Competence</h3>
+
+{% for e in site.categories.sgc  %}
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture training-date %}{{e.date-start | date: '%s'}}{% endcapture %}
+    {% if training-date > nowunix %}
+        <div class="event-box">
+            <span class="date">{% include id-date-range.html start=e.date-start end=e.date-end %}</span>
+            <h4>{{ e.trainer }}</h4>
+            <img class="trainer" align="left" src="{{ site.url }}/assets/images/{{ e.trainer-photo }}" >
+            Biaya: Rp. {{ e.price }} / orang<br>
+            Tempat: {{ e.venue }}, {{ e.city }}<br>
+            <a class="button" href="{{ e.registration }}">&nbsp;Pelajari &amp; Daftar&nbsp;</a>
+        </div>
+    {% endif %}
+{% endfor %}
+
+<div style="height: 30px;"></div>
+
+{% endif %}
+
 <hr>
 
 <h2>Tulisan terbaru</h2>

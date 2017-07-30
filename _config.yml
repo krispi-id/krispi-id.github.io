@@ -1,5 +1,8 @@
 title: Krispi
 
+baseurl: /
+url: http://krispi.org
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
@@ -8,6 +11,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+future: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customi$
