@@ -78,7 +78,7 @@ An entrepreneur with effectual reasoning, will not tie their early phase of a ve
 
 Because when an imaginary end they chose became reality, they know they’ll find new means anyway---which implies to new imaginary ends (read: new directions to move).
 
-Because the new directions in one time might be very radically different to each other & also they evolve over time, they know, having a fixed and clear goal is useless.
+Because the new ends in one time might be very radically different to each other & also they evolve over time, they know, having a fixed and clear goal is useless.
 
 That's why, the word ‘end’ suits better than 'goal'.
 
