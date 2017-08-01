@@ -1,9 +1,10 @@
 ---
+redirect_from: "/tes"
 layout: default
 title:  "Effectuation: How to Be Innovative & What Makes Entrepreneurs Entrepreneurial"
 date:   2017-07-29
 categories: tips bisnis
-permalink: /effectuation-part-1-english
+permalink: effectuation-part-1-english
 ---
 
 # Effectuation: How to Be Innovative & What Makes Entrepreneurs Entrepreneurial
